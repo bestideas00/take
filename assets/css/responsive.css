@@ -1,0 +1,285 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .banner_part {
+        padding: 260px 0;
+    }
+    .banner_part p {
+        line-height: 20px;
+        width: 287px;
+        margin: 15px 0 0 4px;
+    }
+    .about_con_rignt {
+        padding-top: 0px;
+    }
+    .details_con {
+        padding: 25px 15px;
+    }
+    .details_part .bottom {
+        margin: 0 0 15px 0;
+    }
+    .bottom_con p {
+        line-height: 25px;
+    }
+    .full_img_con h2 {
+        padding-top: 32%;
+        font-size: 45px;
+        font-weight: 300;
+    }
+    .resons_part {
+        padding: 20px;
+    }
+    .plan_part {
+        padding: 20px;
+    }
+    .plan_con {
+        padding: 15px;
+    }
+    .plan_part .pln {
+        margin: 15px 0 0 0;
+    }
+    .plan_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .footer_part {
+        padding: 25px;
+    }
+    .footer_con p {
+        width: auto;
+    }
+    .footer_con .ri {
+        width: auto;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .banner_part {
+        padding: 176px 0;
+    }
+    .banner_part h2 {
+        font-size: 43px;
+    }
+    .banner_part p {
+        line-height: 20px;
+        width: 287px;
+        margin: 15px 0 0 4px;
+    }
+    .about_con_rignt {
+        padding-top: 0px;
+    }
+    .details_con {
+        padding: 25px 15px;
+    }
+    .details_part .bottom {
+        margin: 0 0 15px 0;
+    }
+    .bottom_con p {
+        line-height: 25px;
+    }
+    .full_img_con h2 {
+        padding-top: 32%;
+        font-size: 45px;
+        font-weight: 300;
+    }
+    .resons_part {
+        padding: 20px;
+    }
+    .plan_part {
+        padding: 20px;
+    }
+    .plan_con {
+        padding: 15px;
+    }
+    .plan_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .footer_part {
+        padding: 25px;
+    }
+    .footer_con p {
+        width: auto;
+    }
+    .footer_con .ri {
+        width: auto;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner_part {
+        padding: 176px 0;
+    }
+    .banner_part h2 {
+        font-size: 43px;
+    }
+    .banner_part p {
+        line-height: 20px;
+        width: 287px;
+        margin: 15px 0 0 4px;
+    }
+    .about_con_rignt {
+        padding-top: 202px;
+    }
+    .details_con {
+        padding: 25px 15px;
+    }
+    .details_sing .si {
+        width: auto;
+    }
+    .details_con p {
+        margin: 21px 15px 0 0;
+        line-height: 19px;
+    }
+    .bottom_con p {
+        line-height: 25px;
+    }
+    .full_img_con h2 {
+        padding-top: 14%;
+        font-size: 45px;
+    }
+    .resons_part {
+        padding: 25px 0;
+    }
+    .resons_con p {
+        line-height: 25px;
+    }
+    .plan_part {
+        padding: 20px;
+    }
+    .plan_con {
+        padding: 15px;
+    }
+    .plan_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .footer_part {
+        padding: 25px;
+    }
+    .footer_con p {
+        width: auto;
+    }
+    .footer_con .ri {
+        width: auto;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .banner_part {
+        padding: 246px 0;
+    }
+    .banner_part h2 {
+        font-size: 43px;
+    }
+    .banner_part p {
+        line-height: 20px;
+        width: 287px;
+        margin: 15px 0 0 4px;
+    }
+    .about_con_rignt {
+        padding-top: 153px;
+    }
+    .details_con {
+        padding: 25px 15px;
+    }
+    .details_sing .si {
+        width: auto;
+    }
+    .details_con p {
+        margin: 35px 15px 0 0;
+        line-height: 25px;
+    }
+    .bottom_part {
+        text-align: center;
+    }
+    .bottom_con p {
+        line-height: 25px;
+    }
+    .full_img_con h2 {
+        padding-top: 14%;
+        font-size: 45px;
+    }
+    .resons_part {
+        padding: 25px 0;
+        text-align: center;
+    }
+    .resons_con p {
+        line-height: 25px;
+    }
+    .plan_part {
+        padding: 20px;
+    }
+    .plan_con {
+        padding: 15px;
+    }
+    .plan_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .footer_part {
+        padding: 25px;
+    }
+    .footer_con p {
+        width: auto;
+    }
+    .footer_con .ri {
+        width: auto;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .banner_part {
+        padding: 246px 0;
+    }
+    .banner_part h2 {
+        font-size: 43px;
+    }
+    .banner_part p {
+        line-height: 20px;
+        width: 287px;
+        margin: 15px 0 0 4px;
+    }
+    .about_con_rignt {
+        padding-top: 153px;
+    }
+    .details_con {
+        padding: 25px 15px;
+    }
+    .details_sing .si {
+        width: auto;
+    }
+    .details_con p {
+        margin: 35px 15px 0 0;
+        line-height: 25px;
+    }
+    .bottom_part {
+        text-align: center;
+    }
+    .bottom_con p {
+        line-height: 25px;
+    }
+    .full_img_con h2 {
+        padding-top: 14%;
+        font-size: 45px;
+    }
+    .resons_part {
+        padding: 25px 0;
+    }
+    .resons_con p {
+        line-height: 25px;
+    }
+    .plan_part {
+        padding: 20px;
+    }
+    .plan_con {
+        padding: 15px;
+    }
+    .plan_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .footer_part {
+        padding: 25px;
+    }
+    .footer_con p {
+        width: auto;
+    }
+    .footer_con .ri {
+        width: auto;
+    }
+}
